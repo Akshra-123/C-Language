@@ -1,0 +1,28 @@
+Instructions-These are the statements in a program.
+There are three types of instructions:-
+1) Type-declaration
+2) Arithmetic instructions
+3) Control instructions
+
+valid statement:
+int a=1,b;
+here we have 
+
+the modulo operator in arithmetic operators in c is applicable only for integer values and not for float
+
+type conversion:
+int operator int = int
+int operator float = float
+float operator float = float
+
+3) Types of Control Statements:
+  a) sequence control
+  b) decision control
+  c) loop control
+  d) case control
+
+Precedence of Operators:
+1)logical not
+2)Arithmetic 
+3)Relational
+4)Logical(&& and ||)
